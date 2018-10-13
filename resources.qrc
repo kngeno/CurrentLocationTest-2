@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/plugins/CurrentLocationTest" >
+        <file>icon.png</file>
+        <file>/assets/images/CurrentLocationTestFlowchart.png</file>
+    </qresource>
+</RCC>
